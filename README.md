@@ -42,7 +42,7 @@ This project is a React application that demonstrates CRUD operations with user 
 
 2. **Navigate to the project directory:**
    ```bash
-   cd Crud-Operation
+   cd crud-operation
 
 3. **cd react-shopping-cart:**
    ```bash
